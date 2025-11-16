@@ -32,12 +32,12 @@ results = await workflow.execute(input)
 
 ## Features
 
-- 🚀 **2-5x faster execution** through intelligent parallelization
-- 🔄 **Zero code changes** - works with existing agents
-- 📊 **Real-time visualization** - see your workflow execute live
-- 🎯 **Smart scheduling** - balance speed, cost, and resources
-- 🛡️ **Failure handling** - retries, circuit breakers, graceful degradation
-- 📈 **Performance insights** - identify bottlenecks automatically
+-  **2-5x faster execution** through intelligent parallelization
+-  **Zero code changes** - works with existing agents
+-  **Real-time visualization** - see your workflow execute live
+-  **Smart scheduling** - balance speed, cost, and resources
+-  **Failure handling** - retries, circuit breakers, graceful degradation
+-  **Performance insights** - identify bottlenecks automatically
 
 ## Quick Start
 
