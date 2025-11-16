@@ -214,14 +214,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 If you use Conductor in your research, please cite:
 
-```bibtex
-@software{conductor2024,
-  title={Conductor: Intelligent Agent Orchestration Engine},
-  author={Your Team},
-  year={2024},
-  url={https://github.com/yourusername/conductor}
-}
-```
+=
 
 ## Roadmap
 
@@ -231,10 +224,6 @@ If you use Conductor in your research, please cite:
 - [ ] Automatic workflow optimization suggestions
 - [ ] Cloud deployment templates
 
-## Support
-
-- Documentation: https://conductor-ai.readthedocs.io
-- Issues: https://github.com/yourusername/conductor/issues
-- Discord: https://discord.gg/conductor
+=
 
 ---
