@@ -210,11 +210,6 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 
 MIT License - see [LICENSE](LICENSE) for details.
 
-## Citation
-
-If you use Conductor in your research, please cite:
-
-=
 
 ## Roadmap
 
