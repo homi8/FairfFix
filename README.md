@@ -2,7 +2,7 @@
 
 An Agent Orchestration Engine
 
-Stop waiting for sequential agent execution. Conductor automatically parallelizes your AI agent workflows, reducing execution time by 2-5x with zero code changes.
+Stop waiting for sequential agent execution. Conductor automatically parallelizes your AI agent workflows, reducing execution time by 2-5x
 
 ## The Problem
 
